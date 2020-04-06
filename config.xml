@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<widget xmlns="https://www.w3c.or/ns/widgets"
+    xmlns:gap="http://phonegap.com/ns/1.0" version="1.0">
+
+    <name>Health Care</name>
+
+    <description>
+        App Health Care
+    </description>
+
+    <preference name="orientation" value="portrait" />
+    
+</widget>
